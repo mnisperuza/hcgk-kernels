@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hcgk-kernel"
-version = "1.0.3"
+version = "1.0.4"
 description = "Hardware Control Gatekeeper Kernel - Authorization system for heavy AI models"
 readme = "README.md"
 authors = [
@@ -40,10 +40,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/hcgk-kernel"
-Documentation = "https://github.com/yourusername/hcgk-kernel#readme"
-Repository = "https://github.com/yourusername/hcgk-kernel"
-"Bug Tracker" = "https://github.com/yourusername/hcgk-kernel/issues"
+Homepage = "https://github.com/mnisperuza/hcgk-kernel"
+Documentation = "https://github.com/mnisperuza/hcgk-kernel#readme"
+Repository = "https://github.com/mnisperuza/hcgk-kernel"
+"Bug Tracker" = "https://github.com/mnisperuza/hcgk-kernel/issues"
 
 [project.scripts]
 hcgk = "hcgk_kernel.cli:main"

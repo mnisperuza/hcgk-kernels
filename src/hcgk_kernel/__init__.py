@@ -6,7 +6,7 @@
 # License: MIT
 # ==============================================================
 
-__version__ = "1.0.3"
+__version__ = "1.0.4"
 __author__ = "Matias Nisperuza"
 
 import os
