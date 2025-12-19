@@ -40,10 +40,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/mnisperuza/hcgk-kernel"
-Documentation = "https://github.com/mnisperuza/hcgk-kernel#readme"
-Repository = "https://github.com/mnisperuza/hcgk-kernel"
-"Bug Tracker" = "https://github.com/mnisperuza/hcgk-kernel/issues"
+Homepage = "https://github.com/mnisperuza/hcgk-kernels"
+Documentation = "https://github.com/mnisperuza/hcgk-kernels#readme"
+Repository = "https://github.com/mnisperuza/hcgk-kernels"
+"Bug Tracker" = "https://github.com/mnisperuza/hcgk-kernels/issues"
 
 [project.scripts]
 hcgk = "hcgk_kernel.cli:main"
